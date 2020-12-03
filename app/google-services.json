@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792670036921",
+    "firebase_url": "https://project-pbp-b5e1f.firebaseio.com",
+    "project_id": "project-pbp-b5e1f",
+    "storage_bucket": "project-pbp-b5e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792670036921:android:4bc9c907166194ca350c68",
+        "android_client_info": {
+          "package_name": "com.antoniuswicaksana.project_pbp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792670036921-984dd040kst8r0tlh2da34p2gnkrqt5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-ncCVAZgkTvfIXccQE3__Ffi9dLYliI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792670036921-984dd040kst8r0tlh2da34p2gnkrqt5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

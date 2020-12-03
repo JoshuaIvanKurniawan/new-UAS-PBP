@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Event Organizer</string>
+    <string name="rp">Rp </string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidG9uaTYxMiIsImEiOiJja2ZremZpZjIxMHI4MnBtanJydWo5MDlkIn0.zbCKkpFCaRWr-WJ3Tboc5g</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_list_jadwal">Show List Jadwal</string>
+    <string name="create_jadwal">Create Jadwal</string>
+</resources>
